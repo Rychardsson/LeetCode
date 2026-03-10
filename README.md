@@ -6,7 +6,7 @@ Repositório com minhas soluções para problemas do [LeetCode](https://leetcode
 
 | Dificuldade | Resolvidos |
 |-------------|------------|
-| 🟢 Easy     | 0          |
+| 🟢 Easy     | 1          |
 | 🟡 Medium   | 0          |
 | 🔴 Hard     | 0          |
 
