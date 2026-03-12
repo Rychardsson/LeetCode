@@ -6,7 +6,7 @@ Repositório com minhas soluções para problemas do [LeetCode](https://leetcode
 
 | Dificuldade | Resolvidos |
 |-------------|------------|
-| 🟢 Easy     | 1          |
+| 🟢 Easy     | 2          |
 | 🟡 Medium   | 0          |
 | 🔴 Hard     | 0          |
 
@@ -24,6 +24,7 @@ LeetCode/
 | # | Título | Dificuldade | Solução |
 |---|--------|-------------|---------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Java](Two%20Sum/Solution.java) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | [Java](Palindrome%20Number/Solution.java) |
 
 ## 🚀 Como Usar
 

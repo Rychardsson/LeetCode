@@ -5,7 +5,13 @@ class Solution {
         }
         
         int reversedHalf = 0;
-        return false; 
+        
+        while (x > reversedHalf) {
+            reversedHalf = reversedHalf * 10 + x % 10;
+            x /= 10;
+        }
+        
+        return x == reversedHalf || x == reversedHalf / 10;
     }
 
     public static void main(String[] args) {
